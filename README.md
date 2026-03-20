@@ -1,4 +1,4 @@
-# **<div align="center">< 👋Namaste, Duniya!  /></div>**  
+# **<div align="center">< 👋Namaste!  /></div>**  
   
 ## Hi I'm Navin, Good to have you here! 👋
 
