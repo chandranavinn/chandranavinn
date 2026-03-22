@@ -27,7 +27,7 @@ DevOps Engineer with **2+ years of experience** in building and optimizing scala
 ## 🧠 DevOps Architecture (What I Build)
 
 <p align="center">
-  <img width="836" height="424" alt="ChatGPT Image Mar 20, 2026, 09_12_30 AM" src="https://github.com/user-attachments/assets/8f8dc0bc-688f-4d64-935b-69ab174f6166" />
+  <img width="836" height="424" alt="ChatGPT Image Mar 22, 2026, 10_02_23 PM" src="https://github.com/user-attachments/assets/8ca29c87-c9ab-48f1 82df-36806b14a658" />
 
 </p>
 
