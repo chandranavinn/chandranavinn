@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <b>⚡ Automating Infrastructure | Scaling Systems | Delivering Faster ⚡</b>
+  <b>⚡ Automating Infrastructure | Scaling Systems | Shipping Faster ⚡</b>
 </p>
 
 ---
 
 ## 💡 About Me
 
-DevOps Engineer with **2+ years of experience** in building, automating, and optimizing scalable systems.
+DevOps Engineer with **2+ years of experience** in building and optimizing scalable systems.
 
-✔ Strong expertise in **CI/CD pipelines, Kubernetes, and AWS**
-✔ Hands-on experience with **production deployments & troubleshooting**
+✔ Expertise in **CI/CD, Kubernetes, Docker, and AWS**
+✔ Strong experience in **production deployments & troubleshooting**
 ✔ Focused on **automation, reliability, and performance**
 
 💼 Currently working at **KPIT Technologies**
@@ -24,10 +24,11 @@ DevOps Engineer with **2+ years of experience** in building, automating, and opt
 
 ---
 
-## 🧠 DevOps Architecture (Real-World System)
+## 🧠 DevOps Architecture (What I Build)
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*7AOhGDh5pz50jdK5Zk90_Q.png" width="800"/>
+  <img width="836" height="424" alt="ChatGPT Image Mar 20, 2026, 09_12_30 AM" src="https://github.com/user-attachments/assets/8f8dc0bc-688f-4d64-935b-69ab174f6166" />
+
 </p>
 
 ### ⚙️ Flow:
@@ -35,9 +36,9 @@ DevOps Engineer with **2+ years of experience** in building, automating, and opt
 ```
 Developer → GitHub → CI/CD Pipeline (GitHub Actions / TeamCity)
 → Build & Test → Docker Image → Docker Hub
-→ Kubernetes (Deployment via Helm)
+→ Kubernetes (Helm Deployment)
 → Service Exposure (NodePort / Ingress)
-→ Monitoring (CloudWatch / Logs)
+→ Monitoring & Logs (CloudWatch)
 ```
 
 ---
@@ -87,18 +88,23 @@ Python • Bash • Linux • Git • JIRA • SonarQube
 
 ---
 
-## 🌟 Featured DevOps Project (Production-Style)
+## 🌟 Featured Project
 
-### 🚀 End-to-End CI/CD Pipeline with Kubernetes
+### 🚀 AI DevOps CI/CD Pipeline
 
-#### 🔧 Project Highlights:
+🔗 **Project Link:**
+👉 https://github.com/chandranavinn/AI_DevOps_Pipeline
 
-* ✅ Built complete **CI/CD pipeline (GitHub Actions)**
-* ✅ Dockerized application & pushed to Docker Hub
-* ✅ Deployed on Kubernetes using **Helm charts**
-* ✅ Implemented automated testing (**pytest**)
-* ✅ Exposed service via **NodePort**
-* ✅ Debugged real-world issues (crashes, dependencies)
+---
+
+### 🔧 What This Project Demonstrates:
+
+* ✅ End-to-end **CI/CD pipeline using GitHub Actions**
+* ✅ Dockerized application & image lifecycle management
+* ✅ Kubernetes deployment using **Helm charts**
+* ✅ Automated testing integration (**pytest**)
+* ✅ Service exposure using **NodePort**
+* ✅ Debugging real-world deployment issues
 
 ---
 
@@ -109,7 +115,7 @@ User → Browser
    ↓
 Kubernetes Service (NodePort)
    ↓
-Kubernetes Pods (Flask App)
+Kubernetes Pods (Application)
    ↓
 Docker Container
    ↓
@@ -132,7 +138,7 @@ Source Code (GitHub)
 * ☁️ AWS Infrastructure Setup
 * 🔄 Automation using Python & Bash
 
-📩 Available for freelance & contract work
+📩 Open for freelance & contract opportunities
 
 ---
 
@@ -140,7 +146,6 @@ Source Code (GitHub)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandranavinn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandranavinn&theme=tokyonight" />
 </p>
 
 ---
