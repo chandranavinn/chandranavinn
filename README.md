@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | Kubernetes | CI/CD | AWS</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="336" height="224"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="636" height="224"/>
 </p>
 
 <p align="center">
